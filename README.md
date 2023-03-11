@@ -8,7 +8,7 @@ There is also the stretch goal for this lab included, which makes another query 
 
 ## Project Demo
 
-![demo with all features](readme_demo.gif)
+<img src="walkthrough.gif" width="850px">
 
 ## Setup
 
