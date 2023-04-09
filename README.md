@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lab is an app that uses the ApiFlash API to take screenshots of a given website with a variety of parameters. Users can type in different attributes they would like for their screenshot, including the website, image format, and width and height of the screenshot. There is also a gallery of all screenshots taken before.
+This app uses the ApiFlash API to take screenshots of a given website with a variety of parameters. Users can type in different attributes they would like for their screenshot, including the website, image format, and width and height of the screenshot. There is also a gallery of all screenshots taken before.
 
 There is also the stretch goal for this lab included, which makes another query for the APIFlash quota, so users can also see how many remaining queries they have with this API.
 
