@@ -1,4 +1,4 @@
-# Cap
+# WebsiteCapture
 
 ## Overview
 
@@ -8,7 +8,7 @@ There is also the stretch goal for this lab included, which makes another query 
 
 ## Project Demo
 
-<img src="[walkthrough.gif](https://github.com/hzeng33/Cap/blob/main/walkthrough.gif)" width="850px">
+<img src="https://github.com/hzeng33/Cap/blob/main/walkthrough.gif" width="850px">
 
 ## Setup
 
